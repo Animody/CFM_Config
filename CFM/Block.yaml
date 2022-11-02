@@ -8812,7 +8812,7 @@ payload:
  - DOMAIN-SUFFIX,mackeeper.com
  - DOMAIN-SUFFIX,zryydi.com
  - DOMAIN-SUFFIX,flash.cn
- - DOMAINgeo2.adobe.com
+ - DOMAIN,geo2.adobe.com
  - DOMAIN-SUFFIX,4009997658.com
  - DOMAIN-SUFFIX,abbyychina.com
  - DOMAIN-SUFFIX,alienskins.cn
