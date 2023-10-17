@@ -1,4 +1,7 @@
 payload:
+# > Block JetBrains Validation
+ - DOMAIN-SUFFIX,www.jetbrains.com
+ - DOMAIN-SUFFIX,account.jetbrains.com
 # > Block Adobe Validation
  - PROCESS-PATH,/Library/Application Support/Adobe/AdobeGCClient/AdobeGCClient.app/Contents/MacOS/AdobeGCClient
  - PROCESS-PATH,/Library/Application Support/Adobe/AdobeGCClient/AdobeCleanUpUtility.app/Contents/MacOS/AdobeCleanUpUtility
