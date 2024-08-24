@@ -1,6 +1,4 @@
 payload:
- - PROCESS-NAME-REGEX,(?i)Telegram
- - PROCESS-NAME-REGEX,.*telegram.*
  - PROCESS-NAME,org.telegram.messenger
  - DOMAIN-SUFFIX,t.me
  - DOMAIN-SUFFIX,tdesktop.com
